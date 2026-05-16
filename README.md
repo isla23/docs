@@ -1,6 +1,6 @@
 [![Docs_Onlie](https://img.shields.io/badge/在线阅读-FFAA00?logo=readthedocs&logoColor=fff)](https://isla23.github.io/300dzzCS/)
 
-# MaaGF1 文档仓库
+# 300CS 文档仓库
 
 本Readme用于讲述如何编写、组织docs相关文档，以及其他相关事项。
 

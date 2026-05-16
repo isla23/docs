@@ -47,7 +47,7 @@ extra:
 
 # 目录结构
 nav:
-  - 300cs: 300cs/cs_1.0.md
+  - 300cs: tutorial/300cs/cs_1.0.md
 
 markdown_extensions:
   - admonition

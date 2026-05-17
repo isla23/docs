@@ -48,7 +48,7 @@ extra:
   disqus: 'twikoo'
 # 目录结构
 nav:
-  - 300cs: tutorial/300cs/cs_1.0.md
+  - 300cs: tutorial/300cs/zc_cs_1.0.md
   - test: test.md
 
 markdown_extensions:

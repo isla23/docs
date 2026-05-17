@@ -48,9 +48,8 @@ extra:
   disqus: 'twikoo'
 # 目录结构
 nav:
-  - 300cs: 
-    -ZC: tutorial/300cs/zc_cs_1.0.md
-    -JJC: tutorial/300cs/jjc_cs_1.0.md
+  - ZC: tutorial/300cs/zc_cs_1.0.md
+  - JJC: tutorial/300cs/jjc_cs_1.0.md
 markdown_extensions:
   - admonition
   - pymdownx.details

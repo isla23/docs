@@ -30,7 +30,7 @@
 
 ## ID:272092886 <span style="color:#ff4444">星した旅人萌神</span>
 
->![](pic/003.png)<br>各凭本事！玩鱼的好手，颇有当年点剑凡之姿，主打一个在高分区狗路过都要踹两脚，玩其他的就差强人意了
+>![](pic/003.png)<br>"各凭本事！"<br>玩鱼的好手，颇有当年点剑凡之姿，主打一个在高分区狗路过都要踹两脚，玩其他的就差强人意了
 
 <hr style="border: 1px solid #9b44ff;">  
 <hr style="width: 50%; margin: 0 auto; border: 1px solid #ddd;">
@@ -41,4 +41,35 @@
 
 >![](pic/004.png)![](pic/004.png)![](pic/004.png)<br>两个字：<span style="color:red">CS</span>
 
+<hr style="border: 1px solid #9b44ff;">  
+<hr style="width: 50%; margin: 0 auto; border: 1px solid #ddd;">
+
+<br><br>
+
+## ID:1345758127 <span style="color:#ff4444">酸败里的伊藤诚</span>
+
+>![](pic/005.png)![](pic/005_2.png)<br>"我要断三线！"<br>玩k就算了，还公开放话要折磨酸友，你🐎批发的？
+
+<hr style="border: 1px solid #9b44ff;">  
+<hr style="width: 50%; margin: 0 auto; border: 1px solid #ddd;">
+
+<br><br>
+
+## ID:2687088311 <span style="color:#ff4444">小楼初雪</span>
+
+>![](pic/006.png)<br>凑数的小cs，浓度还不够，放在这里都嫌占了内存，算是小灯泡罢
+
+<hr style="border: 1px solid #9b44ff;">  
+<hr style="width: 50%; margin: 0 auto; border: 1px solid #ddd;">
+
+<br><br>
+
+## ID:1345695642 <span style="color:#ff4444">大恶人</span>
+
+>![](pic/007.png)<br>遇到了只能祈祷它今天吃药了，吃没吃是两个人
+
+<hr style="border: 1px solid #9b44ff;">  
+<hr style="width: 50%; margin: 0 auto; border: 1px solid #ddd;">
+
+<br><br>
 ## <center>待续,期待您上榜![图6](pic/loved.jpg)

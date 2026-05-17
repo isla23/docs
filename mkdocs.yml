@@ -10,11 +10,9 @@ edit_uri: https://github.com/isla23/300dzzCS/edit/main/
 extra_css:
   - stylesheets/extra.css
 
-plugins:
-  - shortcode
-
 theme:
   name: material
+  custom_dir: overrides
   language: zh
   logo: assets/pic/logo_256.png
   favicon: assets/pic/logo_256.png

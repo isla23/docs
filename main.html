@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+
+{% block content %}
+  {{ super() }}
+  {% if page.meta.comments %}
+    <h2>💬 评论区</h2>
+    <script src="https://utteranc.es/client.js"
+        repo="isla23/300dzzCS"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+    </script>
+  {% endif %}
+{% endblock %}

@@ -45,7 +45,7 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/MaaGF1/MaaGF1
       name: GitHub 仓库
-
+  disqus: 'twikoo'
 # 目录结构
 nav:
   - 300cs: tutorial/300cs/cs_1.0.md

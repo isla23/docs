@@ -68,6 +68,8 @@
 
 >![](pic/007.png)<br>遇到了只能祈祷它今天吃药了，吃没吃是两个人
 
+{{ shortcode(path="comments.html") }}
+
 <hr style="border: 1px solid #9b44ff;">  
 <hr style="width: 50%; margin: 0 auto; border: 1px solid #ddd;">
 

@@ -10,6 +10,9 @@ edit_uri: https://github.com/isla23/300dzzCS/edit/main/
 extra_css:
   - stylesheets/extra.css
 
+plugins:
+  - shortcode
+
 theme:
   name: material
   language: zh

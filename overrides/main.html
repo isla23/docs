@@ -1,15 +1,13 @@
 {% extends "base.html" %}
 
-{% block content %}
-  {{ super() }}
-  {% if page.meta.comments %}
-    <h2>💬 评论区</h2>
-    <script src="https://utteranc.es/client.js"
-        repo="isla23/comments"
-        issue-term="pathname"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-    </script>
-  {% endif %}
+{% block disqus %}
+<div id="twikoo" style="min-height: 500px;"></div>
+<script src="https://cdn.staticfile.org/twikoo/1.6.41/twikoo.all.min.js"></script>
+<script>
+twikoo.init({
+  envId: 'https://300csvercel.vercel.app/', // 🚨 这里换成你自己的后端地址
+  el: '#twikoo',
+  lang: 'zh-CN', // 设置评论框为中文界面
+})
+</script>
 {% endblock %}

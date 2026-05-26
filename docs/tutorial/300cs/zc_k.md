@@ -3,7 +3,7 @@ comments: true
 ---
 -----
 
-# **<center>cs  k榜</center>**
+# **<center>低分杂蛆榜</center>**
 
 ## ID:1345758127 <span style="color:#ff4444">酸败里的伊藤诚</span>
 >![](pic/005.png)![](pic/005_2.png)<br>"我要断三线！"<br>玩k就算了，还公开放话要折磨酸友，你🐎批发的？

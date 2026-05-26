@@ -49,7 +49,7 @@ extra:
 # 目录结构
 nav:
   - ZC综合cs: tutorial/300cs/zc_cs_1.0.md
-  - ZC低分断线cs: tutorial/300cs/zc_k.md
+  - ZC低分杂蛆cs: tutorial/300cs/zc_k.md
   - JJC: tutorial/300cs/jjc_cs_1.0.md
 markdown_extensions:
   - admonition

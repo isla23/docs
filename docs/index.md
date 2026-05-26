@@ -11,9 +11,10 @@
 
 ## 二、常用连接
 
-1. [ZC部分](tutorial/300cs/zc_cs_1.0.md)
-2. [JJC部分](tutorial/300cs/jjc_cs_1.0.md)
-3. 待开发
-4. 待开发
-5. 待开发
-6. 待开发
+1. [ZC_综合cs](tutorial/300cs/zc_cs_1.0.md)
+2. [ZC_杂蛆cs](tutorial/300cs/zc_k.md)
+3. [JJC部分](tutorial/300cs/jjc_cs_1.0.md)
+. 待开发
+. 待开发
+. 待开发
+. 待开发

@@ -4,6 +4,12 @@ comments: true
 -----
 
 # **<center>低分杂蛆榜</center>**
+## ID:1614737403 <span style="color:#ff4444">你还会喜欢我吗</span>
+>![](pic/010.png)<br>tag：小提米 低分蛆 <br>没得说，要素齐全，标准的野狗  
+还想上桌吃饭，哪里来的蛆也配？  
+说你小提米又不乐意了？你给提米神提鞋都不配  
+已永久拿下低分杂蛆cs第一位
+<hr style="border: 1px solid #9b44ff;">  
 
 ## ID:1345758127 <span style="color:#ff4444">酸败里的伊藤诚</span>
 >![](pic/005.png)![](pic/005_2.png)<br>"我要断三线！"<br>玩k就算了，还公开放话要折磨酸友，你🐎批发的？
@@ -20,4 +26,6 @@ comments: true
 >![](pic/009.png)<br>tag：低分蛆 半藏 断线<br>没得说，要素齐全，标准的野狗，只会捏着暗杀圣剑绕后面推泉水
 
 ## ID: <span style="color:#ff4444">月城雪兔子</span>
->![](pic/011.png)![](pic/011_1.png)<br>经典自己做cs还反咬一口，视频为证，司马玩意
+>![](pic/011.png)![](pic/011_1.png)<br>经典自己做cs还反咬一口，视频为证，司马玩意  
+
+<hr style="border: 1px solid #9b44ff;">  
